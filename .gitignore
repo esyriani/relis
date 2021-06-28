@@ -19,6 +19,8 @@ derby*
 /nbproject/
 .idea/*
 
+ci_dev.php
+
 ## Sublime Text cache files
 *.tmlanguage.cache
 *.tmPreferences.cache
